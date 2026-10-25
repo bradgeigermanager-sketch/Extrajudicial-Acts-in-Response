@@ -1,0 +1,146 @@
+Below is the legal skeleton —
+statutory extrajudicial trigger → contrived predicate → actus reus → fake justification —
+applied to four concrete regimes. In all four, power manufactures the condition that “authorizes” the act.
+
+1. AR-occupied village
+
+Setup
+A foreign security coalition enters a rural area. Locals never accepted their law. The occupiers wear AR glasses / helmet HUDs that overlay legal semantics from the occupier’s homeland.
+
+Contrived condition
+- Local herder crosses a field → AR tag: unregistered agrarian intruder
+- Village council meeting → AR tag: seditious assembly
+- Well drawing water → AR tag: resource-theft node
+- Occupier’s system says: “Place A law: unauthorized presence = lawful detain/kill if imminent admin threat”
+
+Actus reus
+- Detention without charge
+- Shooting “armed unknown” who held a hoe
+- Demolition of “unpermitted structure” that was a 200-year-old granary
+
+Legal reality
+- No jurisdiction by belief. Occupation ≠ sovereignty.
+- Geneva IV Art 64: occupier administers existing local law, except where absolutely necessary for security—not imports foreign criminal code.
+- AR mislabel ≠ imminent threat.
+- Necessity unavailable: occupier created the perceptual threat model.
+- Result: extrajudicial killing / arbitrary detention / war crime if systematic.
+
+One-liner
+The village wasn’t illegal. The HUD made it readable as illegal.
+
+2. BCI border zone
+
+Setup
+A state deploys a brain–computer-interface checkpoint. Travelers’ neural signals are classified as loyal / evasive / hostile-intent. No judge. No warrant. The system “responds extrajudicially” if intent-score > threshold.
+
+Contrived condition
+- Local dialect thinker produces motor-cortex pattern similar to “withhold info”
+- Epileptic spike misread as suppressed recall
+- Migrant’s anxiety → deception vector
+- System rule: “hostile intent = pre-emptive restraint authorized”
+
+Actus reus
+- Neural lockdown (stim lockout)
+- Denial of passage
+- Forced memory probe
+- Lethal drone if “command-intent” inferred
+
+Legal reality
+- Intent without overt act is not usually actus reus.
+- Self-defence needs imminent unlawful violence—not a classifier score.
+- BCI misclassification = fabricated circumstance element.
+- Right to mental integrity / freedom from non-consensual neuro-interrogation (emerging BCI human-rights law).
+- If state tuned model to flag locals: perceptual jurisdiction + algorithmic ethnic profiling.
+
+One-liner
+They didn’t commit a crime. The decoder hallucinated the mens rea.
+
+3. Colonial settler logic
+
+Setup
+Settlers arrive, declare the land “vacant / savage / uncivilized.” Their home-country statute lets them use force against “bandits and heathens.”
+
+Contrived condition
+- Indigenous land use ≠ deed system → “no ownership”
+- Collective governance ≠ state court → “no law”
+- Resistance ≠ politics → “crime”
+- Settler belief: “our society controls this place because we perceive it as unowned”
+
+Actus reus
+- Dispossession
+- Mass arrest as “vagrants”
+- Killing resisters as “obvious criminals”
+- Rendering natives “illegal on their own land”
+
+Legal reality
+- Discovery doctrine / terra nullius = rejected in modern IL.
+- No consent, no treaty, no effective transfer → no title.
+- Importing Place A criminal categories to Place B = legal imperialism.
+- Countermeasure logic fails: natives committed no prior wrongful act against settler law they never joined.
+- Necessity fails: settlers created the “lawless frontier” narrative.
+
+One-liner
+Jurisdiction was invented by calling the owner a trespasser.
+
+4. Corporate enclave security
+
+Setup
+A mega-firm runs a “special economic zone.” Private security statute says: “guard may use force to protect enclave assets / remove unauthorized persons.”
+
+Contrived condition
+- Nearby slum resident walks past fence → RFID/face system: non-person / trespass class
+- Union organizer’s shirt → CV model: brand-threat symbol
+- Local custom (sitting under tree) → enclave rulebook: encampment violation
+- Security believes: “inside the enclave, corporate law = law”
+
+Actus reus
+- Taser removal
+- Blacklist + biometric ban
+- Arrest handed to compliant state police
+- Cut water/AR access to force eviction
+
+Legal reality
+- Private security ≠ sovereign.
+- Statutory self-help protects imminent asset/person threat, not “vibes + logo risk.”
+- Enclave jurisdiction needs host-state contract + human-rights floor.
+- If firm’s sensors project foreign HR/property norms onto host population → ultra vires.
+- Actus reus (removal/beat) lawful only if truly unauthorized + proportionate + alternative existed.
+
+One-liner
+The firm rented land. It did not rent the right to invent criminals.
+
+Cross-pattern table
+
+Regime	Trigger manufactured by	Target recast as	Actus reus	Fake justification	Real status
+AR village	HUD ontology import	“unpermitted intruder”	shoot/detain/demolish	self-defence / occupation security	war crime / arbitrary
+BCI border	classifier drift	“hostile-intent node”	neuro-lock / drone	preemptive defence	torture / extrajudicial
+Settler colony	terra-nullius myth	“savage / bandit”	dispossess / kill	civilizing mandate	annexation / apartheid
+Corp enclave	CV + rulebook	“trespass / brand threat”	taser / ban / evict	private property defence	ultra vires / forced eviction
+
+The unifying doctrine
+
+In all four:
+
+1. Condition element of the extrajudicial power is circumstance-specific: imminent threat, unauthorized entry, prior wrongful act, valid consent.
+2. Actor engineers the circumstance via belief, sensor overlay, legal import, or narrative.
+3. Actus reus is real and physical.
+4. Justification is forged at the perception layer.
+5. Law’s answer:
+   > if the predicate world-state is false and you caused it, the exception does not apply.
+
+Power still fires. Law calls it:
+- arbitrary killing
+- enforced disappearance
+- torture / neuro-torture
+- ethnic/perceptual cleansing
+- occupation abuse
+- corporate feudal violence
+
+One sentence version
+AR village, BCI border, settler colony, and corporate enclave are the same machine with different skins: make the map say “criminal,” then act like the map was jurisdiction.
+
+Applicable:
+- draft Geneva/ICCPR/ARIO charges for each
+- write the statutory clause that would tempt a state to authorize this
+- show how a court should sever actus reus from manufactured mens rea
+- model it as adversarial perception attack in infosec terms
